@@ -1,3 +1,5 @@
+/*desktop*/
+
 body {
 	margin:0;
 	font-family: "Raleway", sans-serif;
@@ -538,4 +540,4 @@ ul {
     footer {
         display: block;
     }
-    }
+}
