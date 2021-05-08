@@ -175,7 +175,7 @@ main {
 	padding: 0vw 2vw 0vw 2vw;
 	margin-top: 3em;
 	display: flex;
-	margin-bottom: 3em;
+	margin-bottom: 2,5em;
 }
 article {
 	width: 70%;
@@ -270,7 +270,7 @@ aside {
 	padding: 0em 3em 0em 3em;
 	display: flex;
 	flex-direction: column;
-	margin-bottom: 4em;
+	margin-bottom: 2,5em;
 }
 .activitiesLabel {
 	height: 375px;
@@ -359,6 +359,9 @@ ul {
 	.asideLabel{
 		height:195px;
     }
+	h4 {
+		padding: 0em 0em 0em 1.5em;
+	}
 }
 
 
@@ -452,7 +455,7 @@ ul {
         margin-bottom: 1em;
     }
     
-    h2 {
+    h4 {
         padding: 0em 0em 0em 1.5em;
     }
     .articleLabel {
@@ -523,19 +526,19 @@ ul {
     }
     .section2Photo2 {
         width: 100%;
-        height: 140px;
+        height: 130px;
     }
     .section2Photo3 {
         width: 100%;
-        height: 140px;
+        height: 130px;
     }
     .section2Photo4 {
             width: 100%;
-            height: 140px;
+            height: 130px;
     }
     .section2Photo5 {
         width: 100%;
-        height: 140px;
+        height: 130px;
     }
     footer {
         display: block;
