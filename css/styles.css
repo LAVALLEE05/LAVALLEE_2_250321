@@ -1,6 +1,6 @@
 /*desktop*/
 
-body {
+body{
 	margin:0;
 	font-family: "Raleway", sans-serif;
 	font-size: 13px;
@@ -55,6 +55,7 @@ header h1 {
 	display: block;
 	margin-right: 1.5em;
 }
+
 .search {
 	height: 3em;
 	width: 400px;
@@ -151,6 +152,7 @@ header h1 {
 .logo i {
 	font-size: 1.2em;
 }
+
 .information {
 	display: flex;
 	align-items: center;
@@ -213,6 +215,7 @@ article {
 	border-radius: 15px 15px 0px 0px;
 	object-fit: cover;
 }
+
 .title {
 	font-weight: bold;
 	font-size: 1em;
