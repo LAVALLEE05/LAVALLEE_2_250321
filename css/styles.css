@@ -273,7 +273,7 @@ aside {
 	padding: 0em 3em 0em 3em;
 	display: flex;
 	flex-direction: column;
-	margin-bottom: 2,5em;
+	margin-bottom: 2em;
 }
 .activitiesLabel {
 	height: 375px;
@@ -337,7 +337,7 @@ footer {
 	background-color: #f2f2f2;
 	display: flex;
 	width: 100%;
-	line-height: 2.2em;
+	line-height: 2em;
 }
 footer div {
 	width:33vw;
