@@ -457,6 +457,9 @@ ul {
         margin-right: 0;
         margin-bottom: 1em;
     }
+	#accomodations{
+		padding: 0em 2em 0em 2em;
+	}
     
     h4 {
         padding: 0em 0em 0em 1.5em;
@@ -491,6 +494,9 @@ ul {
         background-color: #f2f2f2;
         margin-left: 0;
     }
+	#popular{
+		padding: 0em 2em 0em 2em;
+	}
     .asideLabel{
         height:100%;
         padding: 0em 0em 0em 0em;
@@ -507,6 +513,9 @@ ul {
     .section2 {
         padding: 0em 0em 0em 0em;
     }
+	#activities{
+		padding: 0em 2em 0em 2em;
+	}
     .activitiesLabel {
         height: 100%;
         padding: 0em 21,5m 0em 1,5em;
@@ -519,6 +528,7 @@ ul {
         flex-wrap: wrap;
         justify-content: center;
     }
+	
     .section2InsideLabel {
         width: 320px;
         height: 190px;
