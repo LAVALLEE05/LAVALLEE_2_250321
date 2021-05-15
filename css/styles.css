@@ -238,6 +238,10 @@ aside {
 	justify-content: space-between;
 	align-items: center;
 }
+#popular{
+	margin-top: 0;
+}
+}
 .asideInsideLabel {
 	display: flex;
 	width: 310px;
