@@ -366,19 +366,23 @@ ul {
 @media (min-width: 768px) and (max-width: 991px) {
 
 	
+	.articleLabel {
+		width: 255px;
+		height: 250x;
+		margin: 0px 15px 40px 15px;
+	}
+	.asideLabel{
+		height:195px;
+	}
+	footer {
+		display: block;
+	}
 
+	.h4{
+		padding: 0em 0em 0em 1.5em;
+	}
+}
 
-
-
-
-
-
-
-
-
-
-
-   
 	/*mobile*/
 
 @media screen and (max-width: 767px) {
