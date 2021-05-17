@@ -371,30 +371,7 @@ ul {
 	.asideLabel{
 		height:195px;
     }
-	.section2InsideLabel {
-		width: 320px;
-		height: 190px;
-	}
-	.section2Photo1 {
-		width: 100%;
-		height: 140px;
-	}
-	.section2Photo2 {
-		width: 100%;
-		height: 140px;
-	}
-	.section2Photo3 {
-		width: 100%;
-		height: 140px;
-	}
-	.section2Photo4 {
-		width: 100%;
-		height: 140px;
-	}
-	.section2Photo5 {
-		width: 100%;
-		height: 140px;
-	}
+
 	footer {
 		display: block;
 	}
