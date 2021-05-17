@@ -185,7 +185,7 @@ article {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	padding: 2rem;
+	padding: 1rem;
 }
 .articleLabel {
 	background-color: #f2f2f2;
@@ -193,6 +193,7 @@ article {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	align-content: space-between;
 }
 #accomodations{
 	margin-top: 0;
@@ -273,14 +274,14 @@ aside {
 	color: #f2f2f2;
 }
 .section2 {
-	padding: 0em 3em 0em 3em;
+	padding: 0 1,5em;
 	display: flex;
 	flex-direction: column;
 	margin-bottom: 2em;
 }
 .activitiesLabel {
 	height: 375px;
-	border-radius: 15px;
+	border-radius: 10px;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
@@ -288,7 +289,7 @@ aside {
 	justify-content: space-between;
 }
 .section2InsideLabel {
-	width: 21.3vw;
+	width: 320px;
 	border-radius: 15px;
 	background-color: #fff;
 	box-shadow: 0 0 16px #0000002e;
@@ -329,7 +330,6 @@ aside {
 	border-radius: 15px 15px 0px 0px;
 	object-fit: cover;
 }
-
 .section2Text {
 	height: 50px;
 	padding-left: 2.5vw;
