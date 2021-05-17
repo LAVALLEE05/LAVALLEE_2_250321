@@ -356,16 +356,49 @@ ul {
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-	.insideLabel{
+	.articleLabel {
+	{
 		width: 255px;
-		height: 195px;
+		height: 250x;
+		margin: 0px 15px 40px 15px;
+	}
+	.insideLabel{
+		width:50px;
+		height: 20px;
 		margin: 0px 15px 40px 15px;
 
 	}
 	.asideLabel{
 		height:195px;
     }
-	h4 {
+	.section2InsideLabel {
+		width: 320px;
+		height: 190px;
+	}
+	.section2Photo1 {
+		width: 100%;
+		height: 140px;
+	}
+	.section2Photo2 {
+		width: 100%;
+		height: 140px;
+	}
+	.section2Photo3 {
+		width: 100%;
+		height: 140px;
+	}
+	.section2Photo4 {
+		width: 100%;
+		height: 140px;
+	}
+	.section2Photo5 {
+		width: 100%;
+		height: 140px;
+	}
+	footer {
+		display: block;
+	}
+	.h4{
 		padding: 0em 0em 0em 1.5em;
 	}
 }
