@@ -274,7 +274,7 @@ aside {
 	color: #f2f2f2;
 }
 .section2 {
-	padding: 0 1,5em;
+	padding: 2rem;
 	display: flex;
 	flex-direction: column;
 	margin-bottom: 2em;
@@ -289,7 +289,7 @@ aside {
 	justify-content: space-between;
 }
 .section2InsideLabel {
-	width: 320px;
+	width: 275px;
 	border-radius: 15px;
 	background-color: #fff;
 	box-shadow: 0 0 16px #0000002e;
