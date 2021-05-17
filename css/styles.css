@@ -1,5 +1,6 @@
 /*desktop*/
 
+
 body{
 	max-width: 1440px;
 	margin:0 auto;
@@ -358,37 +359,27 @@ ul {
 	list-style-type: none;
 	min-width: 280px;
 }
+}
 
 /*tablet*/
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-	.articleLabel {
-	{
-		width: 255px;
-		height: 250x;
-		margin: 0px 15px 40px 15px;
-	}
-	.insideLabel{
-		width:50px;
-		height: 20px;
-		margin: 0px 15px 40px 15px;
-
-	}
-	.asideLabel{
-		height:195px;
-    }
-
-	footer {
-		display: block;
-	}
-	.h4{
-		padding: 0em 0em 0em 1.5em;
-	}
-}
+	
 
 
-/*mobile*/
+
+
+
+
+
+
+
+
+
+
+   
+	/*mobile*/
 
 @media screen and (max-width: 767px) {
     body{
