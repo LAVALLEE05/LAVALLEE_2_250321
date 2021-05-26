@@ -214,8 +214,9 @@ article {
 	height: 100%;
 	background-color: #f2f2f2;
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
+
 .insideLabel {
 	width: 14.2vw;
 	min-width:150px;
@@ -465,11 +466,11 @@ ul {
 	}
 	.articleLabel {
 		padding: 0em 0em 0em 0em;
-		margin-left: 0;
+		margin-left: 2em;
 		margin-right: 0;
 		height: 100%;
 		background-color: #fff;
-		justify-content: center;
+		grid-template-columns: repeat(1, 1fr)
 	}
 	.insideLabel{
 		width: 320px;
@@ -651,18 +652,17 @@ ul {
 		margin-right: 0;
 		margin-bottom: 1em;
 	}
-
 	h2 {
 		padding: 0em 0em 0em 1.5em;
 	}
 	.articleLabel {
 		padding: 0em 0em 0em 0em;
-		margin-left: 0;
+		margin-left: 2em;
 		margin-right: 0;
-
 		height: 100%;
 		background-color: #fff;
-		justify-content: center;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr)
 	}
 	.insideLabel{
 		width: 320px;
@@ -678,13 +678,10 @@ ul {
 		width: 100%;
 		background-color: #fff;
 		padding: 0em 0em 0em 0em;
-
 	}
 	aside {
 		width: 100%;
 		padding: 0em 0em 0em 0em;
-
-		/* padding: 0em 1.5em 0em 1.5em; */
 		border-radius: 0px;
 		background-color: #f2f2f2;
 		margin-left: 0;
