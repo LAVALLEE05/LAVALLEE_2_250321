@@ -71,7 +71,7 @@ header h1 {
 	width: 400px;
 	margin-top: 1.5em;
 	font-weight: bold;
-	font-size: 1.2em;
+	font-size: 1,2em;
 	display: flex;
 	width: auto;
 	padding: 0vw 2vw 0vw 2vw;
@@ -80,7 +80,7 @@ header h1 {
 	background-color: #f2f2f2;
 	border-color: #f2f2f2;
 	height: 100%;
-	width: 4em;
+	width: 5em;
 	border-radius: 1em 0em 0em 1em;
 	display: flex;
 	align-items: center;
@@ -93,7 +93,7 @@ header h1 {
 	border: 1px solid #d9d9d9;
 	border-left-style: none;
 	border-right-style: none;
-	font-size: 1.2em;
+	font-size: 0,5em;
 	padding-left: 1em;
 	font-weight: bold;
 }
@@ -426,8 +426,8 @@ ul {
 	}
 	.search {
 		padding: 1.5em 1.5em 0em 1.5em;
-		max-width: 320px;
-		width:100%;
+		max-width: 300px;
+		width:90%;
 	}
 	.searchText {
 		display: none;
@@ -618,7 +618,7 @@ ul {
 	.search {
 		padding: 1.5em 1.5em 0em 1.5em;
 		max-width: 320px;
-		width:90%;
+		width:80%;
 		}
 	.searchText {
 		display: none;
@@ -627,7 +627,7 @@ ul {
 		background-color: #0065fc;
 		color: #fff;
 		height: 100%;
-		width: 4em;
+		width: 5em;
 		margin-left: -0.7em;
 		border-radius: 15px;
 		display: flex;
