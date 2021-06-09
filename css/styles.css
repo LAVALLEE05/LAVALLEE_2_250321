@@ -756,12 +756,11 @@ ul {
         line-height: 2.2em;
     }
 	
-@media (min-width: 430 and (max-width: 735 {
+@media (min-width: 660px) and (max-width: 735px) {
 
-	.insideLabel{
-        width: 320px;
+    .insideLabel {
+        width: 220px;
         height: 195px;
         margin: 0px 15px 40px 15px;
     }
 }
-
