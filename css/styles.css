@@ -353,7 +353,7 @@ footer {
     line-height: 2.2em;
 }
 footer div {
-    width:33vw;
+    width:28vw;
     display: flex;
     flex-direction: column;
 }
