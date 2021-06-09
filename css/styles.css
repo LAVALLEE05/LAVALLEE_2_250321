@@ -757,9 +757,9 @@ ul {
     }
 	
 @media (min-width: 430 and (max-width: 735 {
-	
-	 .insideLabel{
-        width: 220px;
+
+	.insideLabel{
+        width: 320px;
         height: 195px;
         margin: 0px 15px 40px 15px;
     }
